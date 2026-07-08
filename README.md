@@ -12,6 +12,11 @@ This project analyzes retail sales data using Python and Power BI to identify sa
 ## Dataset
 - Online Retail Dataset
 
+## Dataset Source
+The dataset used in this project is publicly available on Kaggle:
+:contentReference[oaicite:0]{index=0}
+The dataset is not included in this repository because of GitHub file size limitations.
+
 ## Key Metrics
 - Total Revenue: 9.75M
 - Total Orders: 24K
