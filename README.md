@@ -21,12 +21,26 @@ The dataset is not included in this repository because of GitHub file size limit
 - Total Revenue: 9.75M
 - Total Orders: 24K
 - Total Customers: 4K
+- Total Products Sold: 5M
 - Average Order Value: 398.75
+- Average Revenue per Customer: 2.23K
 
 ## Dashboard Pages
-1. Executive Sales Dashboard
-2. Product Analysis
-3. Customer Analysis
+### 1. Executive Sales Dashboard
+- Monthly Revenue Trend
+- Monthly Orders Trend
+- Revenue by Country
+- Revenue by Month
+
+### 2. Product Analysis
+- Top Products by Revenue
+- Top Products by Quantity Sold
+- Product Performance Analysis
+
+### 3. Customer Analysis
+- Customer Revenue Distribution
+- Customer Purchase Behavior
+- Customer Segmentation
 
 ## Key Insights
 - United Kingdom generated the highest revenue.
