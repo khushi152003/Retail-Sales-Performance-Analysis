@@ -1,0 +1,37 @@
+# Retail Sales Performance Analysis
+
+## Project Overview
+This project analyzes retail sales data using Python and Power BI to identify sales trends, customer behavior, and product performance.
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+- Power BI
+
+## Dataset
+- Online Retail Dataset
+
+## Key Metrics
+- Total Revenue: 9.75M
+- Total Orders: 24K
+- Total Customers: 4K
+- Average Order Value: 398.75
+
+## Dashboard Pages
+1. Executive Sales Dashboard
+2. Product Analysis
+3. Customer Analysis
+
+## Key Insights
+- United Kingdom generated the highest revenue.
+- Regency Cake Stand 3 Tier was among the top-selling products.
+- Sales increased significantly during the last quarter of the year.
+
+## Files Included
+- Power BI Dashboard (.pbix)
+- Jupyter Notebook (.ipynb)
+- Dashboard Screenshots
+
+## Author
+Dnyandevi Kamble
